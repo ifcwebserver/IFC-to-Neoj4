@@ -3,12 +3,12 @@ This repository includes the IFCWebServer scripts to convert IFC models into Neo
 
 
 # Steps to convert IFC models into Neo4j graph database
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Note: The steps below don't work any more
 The uploaded IFC models can be convetred on the IFCWebServer.org only and the graph database will be hosted on the server.
 If you are intersted to use the graph databse feature locally please contact me.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 1- Install Neo4j locally on your PC/Server
 
